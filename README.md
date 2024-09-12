@@ -80,9 +80,6 @@ Key factors that contribute to fraudulent transactions include:
 
 Feel free to fork this repository and submit pull requests for improvements or new ideas. All contributions are welcome.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
