@@ -35,7 +35,7 @@ The dataset provided consists of 6,362,620 rows and 10 columns, including variou
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection-project.git
+git clone https://github.com/Darth-Vader-The-Dark-Side-Coder/fraud-detection-project.git
 cd fraud-detection-project
 pip install -r requirements.txt
 ```
